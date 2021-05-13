@@ -1,2 +1,2 @@
-# devious-pack
+# Devious-pack
 The modpack made by Deviouslrd
